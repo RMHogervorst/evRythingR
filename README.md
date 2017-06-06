@@ -8,6 +8,7 @@
 - create a bot that [tweets jeopardy questions and answers by Michael W. Kearney](https://github.com/mkearney/jeopboty)
 - send and recieve emails with the [gmailr package by Jim Hester](https://github.com/jimhester/gmailr)
 - Generate [children's songs with random words](https://github.com/mine-cetinkaya-rundel/lullabyr) by Mine Cetinkaya-Rundel
+- send a Push notification to your phone with pushover [pushoverr] [cran](https://cran.r-project.org/web/packages/pushoverr/index.html) and [github](https://github.com/briandconnelly/pushoverr) by Briand Connely. 
 
 
 Do you have suggestions? add them using the pen icon and starting a pull request.
